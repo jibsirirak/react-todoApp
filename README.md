@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# Sales App
+ >Sales App is Online course sales app. Use react framework.\
+ This is my project in online course.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- ## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
 
-## Available Scripts
 
-In the project directory, you can run:
+## General Information
+OX games use a python socket to create a game with both server and client side. In order to start the game, it is necessary to run the server file only once. Also known as Host and other players to play must run client file to connect to the server to start the game. The game has a system to create a room, 1 room with two players.
+There is also a Hall of fame system to rank and keep player statistics.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Technologies Used
+- Socket Programming in Python
+- TK Interface library
+- Visual Studio Code 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Features
+- Have 2 mode for this game 
+  1) play with host (server - client)
+  2) play with another (client - client)
+- Room systems (Can create , join , delete room)
+- Hall of fame (Name , Played , Win , Lose , Win rate)
+ -->
 
-### `npm test`
+## Screenshots
+This is an example image 
+- 
+![1](https://user-images.githubusercontent.com/78865194/121843955-681e0980-cd0d-11eb-9a4f-66380ab73ad2.PNG)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- When click on the online course you decide to buy, the total price will be updated to the total amount you have to pay.
 
-### `npm run build`
+![2](https://user-images.githubusercontent.com/78865194/121844203-d19e1800-cd0d-11eb-83f4-cfc4d7cd926e.PNG)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- - Manage Room UI
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Picture18](https://user-images.githubusercontent.com/78865194/120215170-9dcbe880-c25f-11eb-8d61-d1a6378d8e63.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Game play UI
 
-### `npm run eject`
+![Picture15](https://user-images.githubusercontent.com/78865194/120215160-9b698e80-c25f-11eb-8746-e1c070e0d417.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Hall of fame UI 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![Picture16](https://user-images.githubusercontent.com/78865194/120215166-9d335200-c25f-11eb-90c5-a1ece7756ac5.png) -->
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
