@@ -1,6 +1,7 @@
-# Sales App
- >Sales App is Online course sales app. Use react framework.\
- This is my project in online course.
+# To-DO App
+ >To-DO App is list to sort things to do each day No matter how big or small it is, write it down.
+It also helps to manage time effectively.\
+This is my project in online course. Use react framework.
 
 <!-- ## Table of Contents
 * [General Info](#general-information)
@@ -32,7 +33,7 @@ This is an example image
 - 
 ![1](https://user-images.githubusercontent.com/78865194/121843955-681e0980-cd0d-11eb-9a4f-66380ab73ad2.PNG)
 
-- When click on the online course you decide to buy, the total price will be updated to the total amount you have to pay.
+- search fuction.
 
 ![2](https://user-images.githubusercontent.com/78865194/121844203-d19e1800-cd0d-11eb-83f4-cfc4d7cd926e.PNG)
 
