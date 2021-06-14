@@ -18,15 +18,14 @@ There is also a Hall of fame system to rank and keep player statistics.
 ## Technologies Used
 - Socket Programming in Python
 - TK Interface library
-- Visual Studio Code 
+- Visual Studio Code  -->
 
 ## Features
-- Have 2 mode for this game 
-  1) play with host (server - client)
-  2) play with another (client - client)
-- Room systems (Can create , join , delete room)
-- Hall of fame (Name , Played , Win , Lose , Win rate)
- -->
+- create new work item
+- search item
+- delete iem
+- clear all item
+- reset item 
 
 ## Screenshots
 This is an example image 
