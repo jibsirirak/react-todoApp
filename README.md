@@ -23,9 +23,9 @@ There is also a Hall of fame system to rank and keep player statistics.
 ## Features
 - create new work item
 - search item
-- delete iem
-- clear all item
-- reset item 
+- delete item
+- clear all item list
+- reset item list
 
 ## Screenshots
 This is an example image 
